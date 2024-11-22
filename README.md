@@ -25,7 +25,9 @@ Post-Install Root Patch -->Start RootPatching-->输入root 密码-->reboot
 
 -----其他网卡如[原装网卡AX201] 参考[此教程](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/wiki/驱动内置英特尔无线网卡)添加 i 卡驱动以支持
 24.11.22 更：添加Intel 网卡蓝牙驱动如有需要自行启用 
+
 enbale ：IntelBTPatcher.kext  IntelBluetoothFirmware.kext   AirportItlwm.kex
+
 false：IOSkywalkFamily.kext IO80211FamilyLegacy.kext IO80211FamilyLegacy.kext/Contents/PlugIns/AirPortBrcmNIC.kext AMFIPass.kext
 ！！！未测试，理论上可正常使用！！！
 
