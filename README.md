@@ -28,7 +28,9 @@
 
 ## 网络支持
 - **原装 Intel 网卡 AX201**： 可直接使用
-- **BCM94360Z4**：由于 Apple 移除了 Broadcom 驱动，WiFi 可能失效，但蓝牙正常，后续懒得适配
+- ![1b76f95606c885f6ccbd08a606fe8c02](https://github.com/user-attachments/assets/f85256f8-d872-4dec-9278-b39c11bd525c)
+
+- **BCM94360Z4**：由于 Apple 移除了 Broadcom 驱动，WiFi 可能失效，但蓝牙正常，后续懒得适配，需要双向airport考虑博通和白果
 - **白果网卡（macOS 14）**：用就完了
 
 <img width="720" alt="image" src="https://github.com/lovesakuratears/XiaoXinPro13_hackintosh_OC/assets/54654377/6e1dd8de-cce0-46b0-bde9-2b85904d731d">
