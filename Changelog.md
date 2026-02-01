@@ -17,3 +17,8 @@
 6.更新USBMap.kext，usb 映射，修复AX201蓝牙usb定制问题
 遗留问题：IntelBTPatcher.kext官方要求Monterey and newer 版本，但是我测试发现14.4.1 不加载也可以正常使用，所以暂时保留
 
+26.02.01 更新
+更新内容如下：
+1. 修复已知问题，开启intelBTPatcher.kext
+
+

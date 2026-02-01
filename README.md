@@ -15,7 +15,7 @@
 ## 系统要求
 - 联想小新Pro13（S）2019款 Intel 版本（i5-10210U/i7-10710U）
 - 已安装 macOS（建议先参考 [XiaoXinPro-13-hackintosh](https://github.com/daliansky/XiaoXinPro-13-hackintosh) 进行安装）
-- 支持的 macOS 版本：只支持14.4.1-15以下（不包含15），未来不确定适配15以上
+- 支持的 macOS 版本：只支持14.4.1-15以下（不包含15），理论上支持15自行尝试
 
 ## 安装步骤
 1. 下载本仓库的 EFI 文件夹
