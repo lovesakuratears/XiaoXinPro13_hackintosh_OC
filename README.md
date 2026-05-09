@@ -1,5 +1,8 @@
 # XiaoXinPro13_hackintosh_OC
 ## Lenovo XiaoXin Pro13（S）i5-10210U/i7-10710U  [English](README_EN.md)
+# ⚠️ 本项目已停止维护（No Longer Maintained）
+本仓库不再更新、不再接受 Issue，仅作历史存档。
+![Maintenance](https://img.shields.io/badge/maintenance-inactive-red.svg)
 
 适用于 2019 款联想小新Pro13（S）Intel 版本（2020 款需自测）
 
